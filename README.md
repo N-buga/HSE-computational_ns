@@ -1,2 +1,1 @@
-# HSE-computational_ns
-Neuroscience algorithms
+Implementation of Hodgkin Huxley Model. File `Hodgkin_Huxley_model.py` contains the model constants, initial values and function to evaluate derivatives. File `Hodgkin_Huxley_analysis.ipynb` contains analysis, plots and conclusion. Also conclusion is duplicated in the file `conclusion.md`.
